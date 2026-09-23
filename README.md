@@ -52,17 +52,12 @@ Sou estudante do ensino médio e utilizo a programação para transformar ideias
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Identificador de ISQLh4>
+      <h4>⚡ Identificador de ISQL <h4>
       <p>Ferramenta de terminal (TUI) para automatizar testes de SQL Injection, construída com Textual e Python puro. Feita para praticar e agilizar os fluxos que normalmente seriam feitos manualmente com Burp Suite — como os labs do PortSwigger Web Security Academy. </p>
       <p><code>Python</code> <code>Automação</code></p>
       <a href="https://github.com/Vishapy/SQLiTool-">Ver Repositório →</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Projeto 02 (Nome do seu projeto)</h4>
-      <p>Descrição clara e objetiva sobre o funcionamento dessa aplicação, o impacto visual ou a lógica envolvida.</p>
-      <p><code>JavaScript</code> <code>Web</code></p>
-      <a href="#">Ver Repositório →</a>
-    </td>
   </tr>
 </table>
 
