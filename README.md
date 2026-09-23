@@ -61,9 +61,6 @@ Sou estudante do ensino médio e utilizo a programação para transformar ideias
   </tr>
 </table>
 
----
-
----
 
 ### 📬 Conecte-se comigo
 
