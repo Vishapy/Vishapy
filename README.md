@@ -1,31 +1,92 @@
-# Olá, eu sou o Pisaiax! 👋
+<div align="center">
 
-Estudante do Ensino Médio apaixonado por tecnologia, programação e resolução de problemas. Gosto de encarar novos desafios como oportunidades reais de aprendizado e estou sempre em busca de evoluir minhas habilidades técnicas.
+  <h1>👋 Olá, eu sou o Pisaiax</h1>
+  
+  <p><b>Desenvolvedor em formação | Python & JavaScript</b></p>
+
+  <p>
+    <i>"Aprender construindo e evoluir resolvendo problemas do mundo real."</i>
+  </p>
+
+  <br />
+
+  <!-- BADGES DE TECNOLOGIAS -->
+  <a href="https://github.com/Pisaiax">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://github.com/Pisaiax">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/Pisaiax">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+
+</div>
+
+<br />
 
 ---
 
-### 💻 Minhas Tecnologias
-Aqui estão as principais linguagens e ferramentas que utilizo nos meus projetos:
+### 📌 Sobre mim
 
-* **Linguagens:** Python, JavaScript
-* **Áreas de interesse:** Desenvolvimento Backend, Automação, Criação de Soluções Práticas
+Sou estudante do ensino médio e utilizo a programação para transformar ideias e desafios em soluções práticas. Tenho foco principal em **Python** e **JavaScript**, dedicando meu tempo a aprender novos conceitos através de projetos práticos.
 
----
-
-### 🚀 Sobre Mim
-* 🎯 **Foco atual:** Desenvolver projetos práticos e funcionais para o meu portfólio.
-* 🧠 **Mindset:** Aceito desafios complexos como forma de aprendizado e adoro quebrar a cabeça para solucionar problemas.
-* 💼 **Objetivo:** Busco vagas, freelas ou novas oportunidades para crescer na área de tecnologia.
+* 🎯 **Foco atual:** Desenvolvimento de automações, rotinas de código limpo e fundamentos de desenvolvimento web/backend.
+* 🧩 **Perfil:** Gosto de encarar problemas difíceis como um processo de aprendizado contínuo.
+* 💼 **Objetivo:** Aberto a oportunidades de estágio, vagas júnior, trabalhos freelance e projetos colaborativos.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pisaiax&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub do Pisaiax" />
-</p>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, JavaScript (ES6+) |
+| **Desenvolvimento Web & Scripts** | HTML5, CSS3, DOM, Automação/Scripts |
+| **Ferramentas** | Git, GitHub, VS Code, Linux/Terminal |
 
 ---
 
-### 📫 Como falar comigo
-* Se quiser trocar uma ideia, propor um desafio ou falar sobre oportunidades, entre em contato!
+### 🚀 Projetos em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Projeto 01 (Nome do seu projeto)</h4>
+      <p>Uma breve descrição do que o projeto faz de forma direta, qual problema ele resolve e quais bibliotecas/ferramentas você utilizou.</p>
+      <p><code>Python</code> <code>Automação</code></p>
+      <a href="#">Ver Repositório →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Projeto 02 (Nome do seu projeto)</h4>
+      <p>Descrição clara e objetiva sobre o funcionamento dessa aplicação, o impacto visual ou a lógica envolvida.</p>
+      <p><code>JavaScript</code> <code>Web</code></p>
+      <a href="#">Ver Repositório →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Estatísticas no GitHub
+
+<div align="center">
+  <br />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pisaiax&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisaiax&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 📬 Conecte-se comigo
+
+<div align="center">
+
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
