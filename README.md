@@ -63,25 +63,14 @@ Sou estudante do ensino médio e utilizo a programação para transformar ideias
 
 ---
 
-### 📈 Estatísticas no GitHub
-
-<div align="center">
-  <br />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pisaiax&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisaiax&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
 ---
 
 ### 📬 Conecte-se comigo
 
 <div align="center">
 
-  <a href="mailto:seu-email@dominio.com">
+  <a href="mailto:joaopisaiaks@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
 </div>
